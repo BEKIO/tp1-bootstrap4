@@ -35,7 +35,7 @@ p, a {font-weight: 400;}
   width: 150px;
   display:block;
   position: absolute;
-  border-bottom:  5px solid #6266ea;
+  border-bottom:  5px solid #000000;
   padding-top: .5em;
 }
 .typo-space-line-center::after {
